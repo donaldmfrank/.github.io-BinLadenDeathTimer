@@ -1,2 +1,2 @@
-# .github.io-BinLadenDeathTimer
+# BinLadenDeathTimer
 Bin Laden Death Timer
