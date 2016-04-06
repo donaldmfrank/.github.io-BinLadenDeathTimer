@@ -5,9 +5,9 @@
 #countup p {
 display: inline-block;
 padding: 5px;
-background: red;
+background: blue;
 margin: 0 0 20px;
-border: 2px solid black;
+border: 2px solid white;
 color: white;
 font-size: 40px;
 }
@@ -20,13 +20,15 @@ img {
 }
 
 body {
-  background-color: blue;
+  background-image: url("https://upload.wikimedia.org/wikipedia/en/archive/a/a4/20151118161037!Flag_of_the_United_States.svg");
+  Background-size: 100%;
 }
 
 h1 {
-  color: white;
+  -webkit-text-stroke: 1px white;
+  color: black;
   text-align: center;
-  font-size: 50px;
+  font-size: 70px;
 }
 
 #num1 {
@@ -34,5 +36,7 @@ h1 {
 }
 
 #num2 {
-  margin-bottom: 10%;
+  margin-bottom: 5%;
+  font-size:100px;
 }
+
