@@ -1,3 +1,5 @@
+// Why wont the fucking date change to May 3rd from May 1st change the time on the counter (cont.) 
+// that's on the live site? If you know, email me. donaldmfrank@hotmail.com
 window.onload=function() {
   // Month,Day,Year,Hour,Minute,Second
   upTime('may,03,2011,03:00:00'); // ****** Change this line!
